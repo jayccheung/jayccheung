@@ -6,9 +6,9 @@ I specialize in building **high-performance, client-side trading tools** for pro
 ### 🛠️ Featured Tooling Matrix
 I maintain two high-performance, open-source projects designed to solve specific volatility and risk management pain points:
 
-* **[BTC Market Clock & Trading Sessions](https://github.com/你的用户名/btc-market-clock-trading-sessions)**: 
+* **[BTC Market Clock & Trading Sessions](https://github.com/jayccheung/btc-market-clock-trading-sessions)**: 
     * *Focus:* Institutional-grade market monitoring, GMT/UTC session synchronization, and no-lag countdowns.
-* **[Binance/Bybit MMR Liquidation Calculator](https://github.com/你的用户名/binance-bybit-mmr-calculator)**: 
+* **[Binance/Bybit MMR Liquidation Calculator](https://github.com/jayccheung/binance-bybit-mmr-calculator)**: 
     * *Focus:* Zero-latency high-leverage risk projection engine synced with official MMR formulas.
 
 ### 🌐 Official Enterprise Hub
